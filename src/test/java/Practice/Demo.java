@@ -19,5 +19,10 @@ public class Demo
 	{
 		System.out.println("demo3");
 	}
+	
+	public void demo4()
+	{
+		System.out.println("demo4");
+	}
 
 }
