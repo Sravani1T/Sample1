@@ -6,5 +6,10 @@ public class Demo
 	{
 		System.out.println("demo1");
 	}
+	
+	public void demo2()
+	{
+		System.out.println("demo2");
+	}
 
 }
